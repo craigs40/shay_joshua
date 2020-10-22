@@ -3,5 +3,7 @@
   position: fixed;
   border-radius: 0;
   height: 100%;
-
+}
+#main-doc{
+  padding-left: 180px;
 }
